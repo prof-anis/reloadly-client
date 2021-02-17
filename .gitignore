@@ -1,0 +1,5 @@
+/vendor
+/.idea
+/.phpintel
+/test-coverage
+/index.php
